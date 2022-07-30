@@ -2,3 +2,16 @@
     position: relative;
     top: 40%;
 }
+.text-one{
+    position: relative;
+    top: 25px;
+}
+.btn-one{
+    position: relative;
+    top: 50px;
+    left: 200px;
+}
+.course-setup{
+    position: relative;
+    left: 100px;
+}
