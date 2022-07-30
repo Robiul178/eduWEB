@@ -11,3 +11,13 @@
     top: 50px;
     left: 200px;
 }
+.btn-two{
+    position: relative;
+    left: 30%;
+}
+
+@media screen and (max-width: 768px;){
+    .btn-two{
+        overflow: hidden;
+    }
+}
