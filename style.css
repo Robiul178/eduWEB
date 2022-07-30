@@ -16,8 +16,12 @@
     left: 30%;
 }
 
-@media screen and (max-width: 768px;){
-    .btn-two{
-        overflow: hidden;
-    }
+@media screen and (max-width: 767px){
+    #mobile   {overflow:hidden;}
 }
+
+.image-style img{
+    background: rgba(29, 29, 29, 0.7);
+}
+
+
